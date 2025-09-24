@@ -32,7 +32,7 @@ An AI-powered web application that identifies defects on aircraft exteriors usin
 
 ## demo 
 
-<a href="" style="display:inline-block;padding:8px 16px;background-color:#007bff;color:#fff;border-radius:4px;text-decoration:none;">View 
+<a href="https://aircraft-exterior-defect-detection.streamlit.app/" style="display:inline-block;padding:8px 16px;background-color:#007bff;color:#fff;border-radius:4px;text-decoration:none;">View 
 
 ## 🖥️ Getting Started
 
