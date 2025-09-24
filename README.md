@@ -30,6 +30,10 @@ An AI-powered web application that identifies defects on aircraft exteriors usin
 ├── runs/                    # YOLO training outputs  
 └── train/aircraft_defect/   # Training dataset  
 
+## demo 
+
+<a href="" style="display:inline-block;padding:8px 16px;background-color:#007bff;color:#fff;border-radius:4px;text-decoration:none;">View 
+
 ## 🖥️ Getting Started
 
 ### 1. Clone the Repository
@@ -58,7 +62,6 @@ python train.py
 ## 📜 License
 
 This project is licensed under the MIT License <a href="https://github.com/Dinakar-22/Aircraft-Exterior-Defect-Application/tree/main?tab=MIT-1-ov-file" style="display:inline-block;padding:8px 16px;background-color:#007bff;color:#fff;border-radius:4px;text-decoration:none;">View MIT License</a>
-
 
 
 ## 👨‍💻 Author
