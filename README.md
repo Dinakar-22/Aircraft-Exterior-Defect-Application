@@ -67,5 +67,4 @@ This project is licensed under the MIT License <a href="https://github.com/Dinak
 ## 👨‍💻 Author
 
 **Dinakar-22**  
-Passionate about AI, computer vision, and building intuitive user interfaces for real-world impact.
 
