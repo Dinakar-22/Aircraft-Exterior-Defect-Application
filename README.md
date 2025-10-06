@@ -66,5 +66,6 @@ This project is licensed under the MIT License <a href="https://github.com/Dinak
 
 ## 👨‍💻 Author
 
-**Dinakar-22**  
+<a href="https://github.com/Dinakar-22" style="display:inline-block;padding:8px 16px;background-color:#007bff;color:#fff;border-radius:4px;text-decoration:none;">Dinakar-22</a>
+
 
